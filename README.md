@@ -10,7 +10,7 @@ During the course of our analysis an academic integrity issue arose with a subse
 As mentioned in the introduction during the course of our analysis we were told the test results of all 9th graders at Thomas High School were invalidated and are not be included in this analysis. 
 
 #### District Summary
-![District Summary](/resources/district_summary_after.png)
+![District Summary](./Resources/district_summary_after.png)
 
 Since we had already run our preliminary analysis before being told to drop the scores we were able to look at the changes in the overall numbers that dropping the offending scores made. 
 
@@ -24,7 +24,7 @@ The following observations were made after performing the second analysis:
 
 
 #### Bottom Five Schools
-![Bottom Five Schools](./resources/bottom_school.png)
+![Bottom Five Schools](./Resources/bottom_school.png)
 
 
 
@@ -42,13 +42,13 @@ Schools are broken down into three groups based on total student count. Average 
 
 ### Further Statistics
 #### Math Scores by Grade and School
-![Math Scores by Grade](./resources/math_by_grade.png)
+![Math Scores by Grade](./Resources/math_by_grade.png)
 
 #### Reading Scores by Grade and School
-![Reading Scores by Grade](./resources/reading_by_grade.png)
+![Reading Scores by Grade](./Resources/reading_by_grade.png)
 
 #### Scores by School Type
-![Scores by School Type](./resources/type_summary.png)
+![Scores by School Type](./Resources/type_summary.png)
 
 
 ## Summary:
