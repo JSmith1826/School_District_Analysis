@@ -1,7 +1,6 @@
 # School District Analysis
 
-## Project Overview - Overview of the school district analysis: Explain the purpose of this analysis.
-
+## Project Overview
 This project's purpose was to analyses two data sets provided by a school district. The district has 15 high schools, a mix of district run schools and charter schools. There are 39,170 students total in the district. The data that was analyzed included the state mandated standardized test scores for all student as well as data on each school including total students and annual budget. 
 
 During the course of our analysis an academic integrity issue arose with a subset of students, ninth graders at Thomas High School, invalidating their standardized test scores The analysis and summary statistics needed to be recompiled after dropping the questionable data.
